@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo.jpg" alt="NSCC Logo" width="280"/>
+  <img src="logo.jpg" alt="NSCC Logo" width="140"/>
 </p>
 
 <h1 align="center">Bragg Peak Simulation</h1>
