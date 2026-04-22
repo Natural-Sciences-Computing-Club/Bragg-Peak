@@ -1,0 +1,7 @@
+﻿label,material_key,thickness_cm,density_g_cm3
+scalp,muscle_skeletal,0.2,
+fat,adipose_tissue,0.3,
+skull,bone_cortical,0.6,
+brain,muscle_skeletal,5,
+tumor,muscle_skeletal,1.2,
+brain,muscle_skeletal,3,
